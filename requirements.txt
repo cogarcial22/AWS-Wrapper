@@ -1,0 +1,6 @@
+awscli
+boto3
+cryptography==2.4.2
+multipledispatch
+paramiko
+prettytable
